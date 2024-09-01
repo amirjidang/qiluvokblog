@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qiluvokblog.pages.dev/sitemap.xml
